@@ -8,3 +8,4 @@ sleep schedule, helps in maintaining your water
 intake and calorie intake.
 It visualize your entered data and helps in
 tracking your progress easily.
+VIDEO LINK :- https://youtu.be/BIOb4Y7D50o
